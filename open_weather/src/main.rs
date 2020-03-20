@@ -1,4 +1,3 @@
-extern crate hyper;
 mod weather;
 
 use serde_json;
